@@ -1,0 +1,12 @@
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\toonTijdVanConsoloe\toonTijdVanConsoloe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\toonTijdVanConsoloe\toonTijdVanConsoloe\bin\Debug\toonTijdVanConsoloe.exe.config
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\toonTijdVanConsoloe\toonTijdVanConsoloe\bin\Debug\toonTijdVanConsoloe.exe
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\toonTijdVanConsoloe\toonTijdVanConsoloe\bin\Debug\toonTijdVanConsoloe.pdb
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\toonTijdVanConsoloe\toonTijdVanConsoloe\obj\x86\Debug\toonTijdVanConsoloe.exe
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\toonTijdVanConsoloe\toonTijdVanConsoloe\obj\x86\Debug\toonTijdVanConsoloe.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\toonTijdVanConsoloe\toonTijdVanConsoloe\bin\Debug\toonTijdVanConsoloe.exe.config
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\toonTijdVanConsoloe\toonTijdVanConsoloe\obj\x86\Debug\toonTijdVanConsoloe.exe
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\toonTijdVanConsoloe\toonTijdVanConsoloe\obj\x86\Debug\toonTijdVanConsoloe.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\toonTijdVanConsoloe\toonTijdVanConsoloe\bin\Debug\toonTijdVanConsoloe.exe
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\toonTijdVanConsoloe\toonTijdVanConsoloe\bin\Debug\toonTijdVanConsoloe.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\toonTijdVanConsoloe\toonTijdVanConsoloe\obj\x86\Debug\ResolveAssemblyReference.cache

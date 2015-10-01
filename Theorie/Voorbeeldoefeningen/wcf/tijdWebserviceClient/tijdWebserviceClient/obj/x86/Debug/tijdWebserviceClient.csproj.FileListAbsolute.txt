@@ -1,0 +1,6 @@
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdWebserviceClient\tijdWebserviceClient\bin\Debug\tijdWebserviceClient.exe.config
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdWebserviceClient\tijdWebserviceClient\bin\Debug\tijdWebserviceClient.exe
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdWebserviceClient\tijdWebserviceClient\bin\Debug\tijdWebserviceClient.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdWebserviceClient\tijdWebserviceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdWebserviceClient\tijdWebserviceClient\obj\x86\Debug\tijdWebserviceClient.exe
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdWebserviceClient\tijdWebserviceClient\obj\x86\Debug\tijdWebserviceClient.pdb

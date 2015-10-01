@@ -1,0 +1,15 @@
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\tijdService\TijdService\TijdService\bin\TijdService.dll
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\tijdService\TijdService\TijdService\bin\TijdService.pdb
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\tijdService\TijdService\TijdService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\tijdService\TijdService\TijdService\obj\Debug\TijdService.dll
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\tijdService\TijdService\TijdService\obj\Debug\TijdService.pdb
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\tijdService\TijdService\TijdService\bin\TijdService.dll
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\tijdService\TijdService\TijdService\bin\TijdService.pdb
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\tijdService\TijdService\TijdService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\tijdService\TijdService\TijdService\obj\Debug\TijdService.dll
+C:\Users\vongenae\Documents\netwerken IV\voorbeelden\WCF\tijdService\TijdService\TijdService\obj\Debug\TijdService.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdService\TijdService\TijdService\bin\TijdService.dll
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdService\TijdService\TijdService\bin\TijdService.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdService\TijdService\TijdService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdService\TijdService\TijdService\obj\Debug\TijdService.dll
+C:\Users\vongenae\Documents\Computernetwerken IV\voorbeelden\wcf\tijdService\TijdService\TijdService\obj\Debug\TijdService.pdb

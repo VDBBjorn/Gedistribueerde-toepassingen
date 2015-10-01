@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="099f1f8c-7d4c-421f-9f5a-d459dadfc882" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49695/TijdService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TijdService.xsd" MetadataType="Schema" ID="1f76c52f-df7d-410c-9e02-a715dd31e4f1" SourceId="1" SourceUrl="http://localhost:49695/TijdService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TijdService1.xsd" MetadataType="Schema" ID="ab737543-3619-4a21-8a7f-4e1aed57f31a" SourceId="1" SourceUrl="http://localhost:49695/TijdService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TijdService.wsdl" MetadataType="Wsdl" ID="0d5f66d8-3b48-41e6-82db-341530e8d5e6" SourceId="1" SourceUrl="http://localhost:49695/TijdService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
