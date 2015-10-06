@@ -1,0 +1,9 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+	<SOAP-ENV:Header/>
+	<S:Body>
+		<ns2:solveQuadraticResponse xmlns:ns2="http://service/">
+			<return>NaN</return>
+			<return>NaN</return>
+		</ns2:solveQuadraticResponse>
+	</S:Body>
+</S:Envelope>
