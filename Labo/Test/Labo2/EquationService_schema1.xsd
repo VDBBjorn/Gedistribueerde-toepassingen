@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" targetNamespace="http://ws/" xmlns:tns="http://ws/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="solveQuadratic" type="tns:solveQuadratic"/>
+
+  <xs:element name="solveQuadraticResponse" type="tns:solveQuadraticResponse"/>
+
+  <xs:complexType name="solveQuadratic">
+    <xs:sequence>
+      <xs:element name="a" type="xs:double"/>
+      <xs:element name="b" type="xs:double"/>
+      <xs:element name="c" type="xs:double"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="solveQuadraticResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:double" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <S:Body>
+        <ns2:solveQuadratic xmlns:ns2="http://ws/">
+            <c1>1.0</c1>
+            <c2>-5.0</c2>
+            <c3>6.0</c3>
+        </ns2:solveQuadratic>
+    </S:Body>
+</S:Envelope>
