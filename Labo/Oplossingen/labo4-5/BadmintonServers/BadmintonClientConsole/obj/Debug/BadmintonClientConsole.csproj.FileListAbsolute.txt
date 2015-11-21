@@ -1,0 +1,11 @@
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\obj\Debug\BadmintonClientConsole.csprojResolveAssemblyReference.cache
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\bin\Debug\BadmintonClientConsole.exe.config
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\bin\Debug\BadmintonClientConsole.exe
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\bin\Debug\BadmintonClientConsole.pdb
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\obj\Debug\BadmintonClientConsole.exe
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\obj\Debug\BadmintonClientConsole.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\obj\Debug\BadmintonClientConsole.exe
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\obj\Debug\BadmintonClientConsole.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\bin\Debug\BadmintonClientConsole.exe.config
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\bin\Debug\BadmintonClientConsole.exe
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonClientConsole\bin\Debug\BadmintonClientConsole.pdb

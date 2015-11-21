@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+  <handler-chain>
+    <handler>
+      <handler-name>ws.TestLogicalHandler</handler-name>
+      <handler-class>ws.TestLogicalHandler</handler-class>
+    </handler>
+<!--    <handler>
+      <handler-name>ws.TestMessageHandler</handler-name>
+      <handler-class>ws.TestMessageHandler</handler-class>
+    </handler>-->
+  </handler-chain>
+</handler-chains>

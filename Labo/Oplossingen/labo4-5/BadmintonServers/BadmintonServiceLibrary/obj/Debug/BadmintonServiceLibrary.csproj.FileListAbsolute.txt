@@ -1,0 +1,15 @@
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\obj\Debug\BadmintonServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.dll.config
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.dll
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.pdb
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonInterface.dll
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonInterface.pdb
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\obj\Debug\BadmintonServiceLibrary.dll
+C:\Users\tiwi\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\obj\Debug\BadmintonServiceLibrary.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.dll.config
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.dll
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonInterface.dll
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\bin\Debug\BadmintonInterface.pdb
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\obj\Debug\BadmintonServiceLibrary.dll
+C:\Users\vongenae\Documents\Computernetwerken IV\labo\wcf\badminton oplossing\BadmintonServers\BadmintonServiceLibrary\obj\Debug\BadmintonServiceLibrary.pdb
