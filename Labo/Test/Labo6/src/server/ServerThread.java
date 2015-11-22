@@ -1,39 +1,35 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package tictactoe_game;
+package server;
 
+import game.Player;
+import game.PlayerListener;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  *
- * @author vongenae
+ * @author bjorn
  */
 public class ServerThread implements Runnable {
-
+    
     private final BlockingQueue<Player> players;
     PlayerListener endGame;
-    Listener listener;
+    ServerListener listener;
 
     public ServerThread() {
         players = new LinkedBlockingQueue<>();
         endGame = new PlayerListener(players);
-        listener = new Listener(players);
+        listener = new ServerListener(players);
     }
-
-
-    public void end() {
-        endGame.end();
-        listener.end();
-    }
-
-
+    
     @Override
     public void run() {
         new Thread(endGame).start();
         new Thread(listener).start();
     }
+
+    void end() {
+        endGame.end();
+        listener.end();
+    }
+
 }
