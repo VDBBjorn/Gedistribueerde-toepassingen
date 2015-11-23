@@ -1,0 +1,10 @@
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\bin\Debug\BadmintonServerConsole.exe.config
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\bin\Debug\BadmintonServerConsole.exe
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\bin\Debug\BadmintonServerConsole.pdb
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\obj\Debug\BadmintonServerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\obj\Debug\BadmintonServerConsole.exe
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\obj\Debug\BadmintonServerConsole.pdb
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\bin\Debug\BadmintonServiceLibrary.dll
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\bin\Debug\BadmintonInterface.dll
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\bin\Debug\BadmintonServiceLibrary.pdb
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServerConsole\bin\Debug\BadmintonInterface.pdb

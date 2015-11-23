@@ -17,6 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadmintonClientWeb", "Badmi
 		{7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA} = {7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadmintonServerConsole", "BadmintonServerConsole\BadmintonServerConsole.csproj", "{B6867379-B691-410D-8FFE-362448909179}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA} = {7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +44,10 @@ Global
 		{3F9503BD-7D07-4B4C-AD31-F5A6BAC24BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F9503BD-7D07-4B4C-AD31-F5A6BAC24BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F9503BD-7D07-4B4C-AD31-F5A6BAC24BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6867379-B691-410D-8FFE-362448909179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6867379-B691-410D-8FFE-362448909179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6867379-B691-410D-8FFE-362448909179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6867379-B691-410D-8FFE-362448909179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
