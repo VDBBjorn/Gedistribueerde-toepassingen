@@ -1,0 +1,8 @@
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\ConsoleApplication1\obj\Debug\BadmintonClientConsole.csprojResolveAssemblyReference.cache
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\ConsoleApplication1\bin\Debug\BadmintonClientConsole.exe.config
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\ConsoleApplication1\bin\Debug\BadmintonClientConsole.exe
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\ConsoleApplication1\bin\Debug\BadmintonClientConsole.pdb
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\ConsoleApplication1\bin\Debug\BadmintonService.dll
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\ConsoleApplication1\bin\Debug\BadmintonService.pdb
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\ConsoleApplication1\obj\Debug\BadmintonClientConsole.exe
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\ConsoleApplication1\obj\Debug\BadmintonClientConsole.pdb

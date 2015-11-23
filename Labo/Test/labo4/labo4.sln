@@ -5,6 +5,18 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadmintonServiceLibrary", "BadmintonServiceLibrary\BadmintonServiceLibrary.csproj", "{7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadmintonService", "BadmintonService\BadmintonService.csproj", "{AC253F47-C85F-4F43-9BA5-E31D59069222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadmintonClientConsole", "ConsoleApplication1\BadmintonClientConsole.csproj", "{0E9F7EAB-EB43-4943-A5B2-91195ED13972}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA} = {7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadmintonClientWeb", "BadmintonClientWeb\BadmintonClientWeb.csproj", "{3F9503BD-7D07-4B4C-AD31-F5A6BAC24BE6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA} = {7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +27,18 @@ Global
 		{7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B14BDC8-3E9B-41FC-8FF1-A2599395F9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC253F47-C85F-4F43-9BA5-E31D59069222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC253F47-C85F-4F43-9BA5-E31D59069222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC253F47-C85F-4F43-9BA5-E31D59069222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC253F47-C85F-4F43-9BA5-E31D59069222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9F7EAB-EB43-4943-A5B2-91195ED13972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9F7EAB-EB43-4943-A5B2-91195ED13972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9F7EAB-EB43-4943-A5B2-91195ED13972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9F7EAB-EB43-4943-A5B2-91195ED13972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9503BD-7D07-4B4C-AD31-F5A6BAC24BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9503BD-7D07-4B4C-AD31-F5A6BAC24BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9503BD-7D07-4B4C-AD31-F5A6BAC24BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9503BD-7D07-4B4C-AD31-F5A6BAC24BE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

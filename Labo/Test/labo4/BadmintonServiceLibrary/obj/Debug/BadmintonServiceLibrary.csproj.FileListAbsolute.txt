@@ -1,0 +1,8 @@
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.dll.config
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.dll
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServiceLibrary\bin\Debug\BadmintonServiceLibrary.pdb
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServiceLibrary\bin\Debug\BadmintonInterface.dll
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServiceLibrary\bin\Debug\BadmintonInterface.pdb
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServiceLibrary\obj\Debug\BadmintonServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServiceLibrary\obj\Debug\BadmintonServiceLibrary.dll
+C:\Users\Bjorn\Dropbox\School\Ugent\Master\Gedistribueerde toepassingen\Labo\Test\labo4\BadmintonServiceLibrary\obj\Debug\BadmintonServiceLibrary.pdb

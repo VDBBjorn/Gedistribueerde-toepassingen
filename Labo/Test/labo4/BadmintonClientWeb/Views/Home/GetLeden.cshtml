@@ -1,0 +1,25 @@
+﻿@model IEnumerable<BadmintonClientWeb.ServiceReference1.Lid>
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Leden</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Naam)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Naam)
+        </td>
+    </tr>
+}
+
+</table>
