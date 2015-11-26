@@ -36,19 +36,22 @@ public class EquationService_LogicalHandler implements LogicalHandler<LogicalMes
             try {
                 LogicalMessage msg = messageContext.getMessage();
                 Source inhoud = msg.getPayload();
+                
                 TransformerFactory factory = TransformerFactory.newInstance();
                 Transformer tf = factory.newTransformer(new StreamSource(this.getClass().getClassLoader().getResourceAsStream("ws/nieuweVersie.xsl")));
+                
                 DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
                 DocumentBuilder builder = dFactory.newDocumentBuilder();
+                
                 Document document = builder.newDocument();
                 DOMResult aangepast = new DOMResult(document);
+                
                 tf.transform(inhoud, aangepast);
+                
                 msg.setPayload(new DOMSource(aangepast.getNode()));
             } catch (TransformerConfigurationException ex) {
                 Logger.getLogger(EquationService_LogicalHandler.class.getName()).log(Level.SEVERE, null, ex);
-            } catch (ParserConfigurationException ex) {
-                Logger.getLogger(EquationService_LogicalHandler.class.getName()).log(Level.SEVERE, null, ex);
-            } catch (TransformerException ex) {
+            } catch (ParserConfigurationException | TransformerException ex) {
                 Logger.getLogger(EquationService_LogicalHandler.class.getName()).log(Level.SEVERE, null, ex);
             }
         }

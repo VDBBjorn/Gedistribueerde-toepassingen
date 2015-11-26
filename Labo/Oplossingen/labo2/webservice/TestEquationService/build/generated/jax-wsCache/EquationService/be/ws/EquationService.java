@@ -27,9 +27,9 @@ public interface EquationService {
 
     /**
      * 
-     * @param a
      * @param b
      * @param c
+     * @param a
      * @return
      *     returns java.util.List<java.lang.Double>
      */

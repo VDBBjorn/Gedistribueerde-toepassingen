@@ -48,8 +48,8 @@ public class TicTacToeServerSimple {
     }
 
     private static void messageToServer() {
-        try (Socket socket = new Socket("localhost", Server.POORT)) {
-        } catch (IOException ex) {
+        try (Socket socket = new Socket("localhost", Server.POORT)) {}
+        catch (IOException ex) {
             Logger.getLogger(TicTacToeServerSimple.class.getName()).log(Level.SEVERE, null, ex);
         }
     }

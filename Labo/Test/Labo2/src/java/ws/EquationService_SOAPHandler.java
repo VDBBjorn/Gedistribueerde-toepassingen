@@ -35,6 +35,7 @@ public class EquationService_SOAPHandler implements SOAPHandler<SOAPMessageConte
                         break;
                     }
                 }
+                
                 if(bepaalNulpunten == null) return false;
                 for(int i=0; i<bepaalNulpunten.getChildNodes().getLength();i++) {
                     Node node = (Node) bepaalNulpunten.getChildNodes().item(i);

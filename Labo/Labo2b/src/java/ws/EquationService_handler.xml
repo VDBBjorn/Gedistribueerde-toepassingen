@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+  <handler-chain>
+    <handler>
+      <handler-name>ws.EquationServiceLogicalHandler</handler-name>
+      <handler-class>ws.EquationServiceLogicalHandler</handler-class>
+    </handler>
+    <!--<handler>
+      <handler-name>ws.EquationServiceSOAPHandler</handler-name>
+      <handler-class>ws.EquationServiceSOAPHandler</handler-class>
+    </handler>-->
+  </handler-chain>
+</handler-chains>
